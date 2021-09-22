@@ -36,7 +36,7 @@
     "nyc": "15.1.0",
     "semantic-release": "18.0.0",
     "sinon": "11.1.2",
-    "tempy": "1.0.1",
+    "tempy": "2.0.0",
     "xo": "0.28.3"
   },
   "engines": {
