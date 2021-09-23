@@ -1,5 +1,5 @@
 {
-  "name": "@semantic-release/gitlab",
+  "name": "@xudong/semantic-release-gitlab",
   "description": "semantic-release plugin to publish a GitLab release",
   "version": "0.0.0-development",
   "author": "Pierre Vanduynslager (https://twitter.com/@pvdlg_)",
